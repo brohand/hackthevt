@@ -8,9 +8,9 @@ var UI = require('ui');
 var Vector2 = require('vector2');
 
 var main = new UI.Card({
-  title: 'Pebble.js',
+  title: 'AntiDrunk',
   icon: 'images/menu_icon.png',
-  subtitle: 'Hello World!',
+  subtitle: 'no drunks here',
   body: 'Press any button.'
 });
 
